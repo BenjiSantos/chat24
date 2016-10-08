@@ -480,6 +480,7 @@ a.frmore{
   margin: 10px auto;
   font-weight: bold;
   color: #fff!important;
+  display: none;
 }
 
 #preface-area {
